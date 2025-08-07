@@ -3,7 +3,7 @@
 ~$ say "There is no such thing as multitasking! Multitasking is the enemy of focus!"
 ```
 <p align="center">
-  <a href="http://ifconfig.me/ip"><img src="./static/multitasking_vs_focus2.gif" width="340" title="wallpaper"></a>
+  <a href="http://ifconfig.me/ip"><img src="./static/multitasking_vs_focus2.gif" height="340" title="wallpaper"></a>
 </p>
 
 <!--
